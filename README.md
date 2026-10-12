@@ -21,7 +21,7 @@ I work with international and national curricula, helping students develop compu
 ### The CS Academy
 An educational initiative focused on learning, knowledge, creativity, technology, and academic growth.
 
-- Website: https://thecsacademy.net
+- Website: https://sites.google.com/view/thecsacademy/home
 - YouTube: https://www.youtube.com/@TheCSAcademy
 
 ### Educational Applications
